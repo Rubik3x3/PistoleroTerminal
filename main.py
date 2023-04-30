@@ -5,8 +5,9 @@
 # | |     | |\__ \| |_ | (_) || ||  __/| |   | (_) | 
 # |_|     |_||___/ \__| \___/ |_| \___||_|    \___/ 
 
+#Desarrollado por Franco Talarico v1.0.0
+
 from screens import *
 
-clear()
-title()
 mainMenu()
+
